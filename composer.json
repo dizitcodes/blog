@@ -1,5 +1,5 @@
 {
-    "name": "dizit/blog",
+    "name": "dizitcodes/blog",
     "type": "library",
     "autoload": {
         "psr-4": {
