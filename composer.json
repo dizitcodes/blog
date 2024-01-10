@@ -1,0 +1,16 @@
+{
+    "name": "dizit/blog",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dizit\\Blog\\": "src/"
+        }
+    },
+    "extra": {
+        "codeigniter4": {
+            "commands": {
+                "Dizit\\Blog\\Commands\\BlogSetupCommand": "blog:setup"
+            }
+        }
+    }
+}
